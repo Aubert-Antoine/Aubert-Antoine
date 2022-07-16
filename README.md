@@ -64,12 +64,8 @@ style="padding-right:10px;" />
 
 ### ⚡ Fun fact: I spend more time on the doc than on VS-code 🤣
 
-<br />
-
 ## biography : 
 >Hi, my name is Antoine, I study computer science at ESIEE Paris, I will take a major in data science / AI. 
-
-<br />
 
 ## Best projects : 
 - [REST-API-webapp](https://github.com/Aubert-Antoine/REST-API-webapp) In progress... 🚀 
