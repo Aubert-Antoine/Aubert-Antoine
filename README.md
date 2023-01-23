@@ -5,7 +5,7 @@
 
 ## **My quick overview** : 
 
-### 🔭 I’m **currently studying computer science** [@ESIEE_Paris](https://www.esiee.fr/en), an engineering school inside the university [Gustave.Eiffel](https://www.univ-gustave-eiffel.fr/en/)
+### 🔭 I’m **currently studying computer science** [@ESIEE Paris](https://www.esiee.fr/en), an engineering school inside the university [Gustave Eiffel](https://www.univ-gustave-eiffel.fr/en/)
   
 ### 📫 How to reach me: 
   * antoine.aubert@edu.esiee.fr
