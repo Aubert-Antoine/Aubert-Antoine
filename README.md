@@ -15,12 +15,6 @@
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
-
 <img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
 style="padding-right:10px;" />
 
@@ -35,11 +29,12 @@ style="padding-right:10px;" />
 
 <img align="left" alt="Flask" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="Canva" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" style="padding-right:10px;" />
+<img align="left" alt="tensorflow" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="SQLite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />
+<img align="left" alt="pycharm" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" style="padding-right:10px;" />
 
-<img align="left" alt="SQLalchemy" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" style="padding-right:10px;" />
+<img align="left" alt="anaconda" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="padding-right:10px;" />
+
 
 <!--  
 <img align="left" alt="NAME" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/NAME/NAME-original.svg" style="padding-right:10px;" />
@@ -53,25 +48,17 @@ style="padding-right:10px;" />
 
    
 ### 🔍 I’m currently **learning** :
-  -  *Python*
-  -  *Algorithimic*
-  -  some over cool stuff ! 
+  -  **Python** : I use python in a lot of Lessons, i.e. Data-science, Optimization and AI, Deep Learning and also for personnal projects.
+ 
+  >*Data-science* : I Work with **pandas, sns, plotly and Scikit-learn**. 
   
-### 👯 I’m I collaborating on community projects:  : 
-  - [Spinorama](https://github.com/pierreaubert/spinorama/blob/master/README.md)
-  - [Esiee-Space](https://github.com/ESIEESPACE) 
-
-
-### ⚡ Fun fact: I spend more time on the doc than on VS-code 🤣
-
-## biography : 
->Hi, my name is Antoine, I study computer science at ESIEE Paris, I will take a major in data science / AI. 
-
-## Best projects : 
-- [REST-API-webapp](https://github.com/Aubert-Antoine/REST-API-webapp) In progress... 🚀 
-- [Othello](https://github.com/Aubert-Antoine/Othello) 🎮
-- [tron](https://github.com/Aubert-Antoine/TRON) 🎮
-- [Algorithmic](https://github.com/Aubert-Antoine/Optimisation-locales-vs-globales) ⏱️
+  >*Deep Learning* : I build serval neural networks : dense and **CNN** (for image classification) with **TensorFlow** and especially **Keras**.
+  
+  >*Optimization and AI* : Lot of thinhs toward gradiant descent and math.
+  
+  -  **Algorithimic** : **KNN, Linear regression, sort algorithm, gradiant descent...**
+ 
+  -  **Web** : I build a RESTFul app in Erasmus with a backend in Java (Spring Boot) + MySql, and a front end in Reac / HTML. 
 
 #### Please Follow me 😉
 ---
