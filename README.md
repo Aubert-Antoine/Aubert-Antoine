@@ -1,7 +1,6 @@
 # Hi there 👋
 
-<!--
-**Aubert-Antoine/Aubert-Antoine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
+<!--**Aubert-Antoine/Aubert-Antoine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile -->
 
 ## **My quick overview** : 
 
@@ -48,17 +47,20 @@ style="padding-right:10px;" />
 
    
 ### 🔍 I’m currently **learning** :
-  -  **Python** : I use python in a lot of Lessons, i.e. Data-science, Optimization and AI, Deep Learning and also for personnal projects.
+  -  **Python** : I use Python in many lessons, i.e. Data-science, Optimization and AI, Deep Learning and also for personal projects.
  
-  >*Data-science* : I Work with **pandas, sns, plotly and Scikit-learn**. 
+  >*Data-science* : I Work with **pandas, sns, plotly** and **Scikit-learn**. 
   
   >*Deep Learning* : I build serval neural networks : dense and **CNN** (for image classification) with **TensorFlow** and especially **Keras**.
   
-  >*Optimization and AI* : Lot of thinhs toward gradiant descent and math.
+  >*Optimization and AI* : Many things toward gradient descent, optimisation problems math.
   
-  -  **Algorithimic** : **KNN, Linear regression, sort algorithm, gradiant descent...**
+  >*Relational batabases* : Working with **SQL** hosted with mariaBD. Using **UML** diagrams. 
+  
+  -  **Algorithmic** : **KNN, Linear regression, sort algorithm, gradient descent...**
  
-  -  **Web** : I build a RESTFul app in Erasmus with a backend in Java (Spring Boot) + MySql, and a front end in Reac / HTML. 
+  -  **Web** : I build a RESTful app in Erasmus with a backend in Java (Spring Boot) + MySQL, and a front end in React / HTML. 
+
 
 #### Please Follow me 😉
 ---
