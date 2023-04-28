@@ -37,6 +37,10 @@ style="padding-right:10px;" />
 
 <img align="left" alt="anaconda" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" style="padding-right:10px;" />
 
+<img align="left" alt="plotly" width="26px" src="https://www.vectorlogo.zone/logos/plot_ly/plot_ly-icon.svg" style="padding-right:10px;" />
+
+<img align="left" alt="pandas" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/pandas/pandas-original.svg" style="padding-right:10px;" />
+
 
 <!--  
 <img align="left" alt="NAME" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/NAME/NAME-original.svg" style="padding-right:10px;" />
