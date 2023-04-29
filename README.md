@@ -9,10 +9,10 @@
 ### 📫 How to reach me: 
   * antoine.aubert@edu.esiee.fr
   * [Linkedin](https://www.linkedin.com/in/antoine0aubert/)
-
+---
 > **Note** 👨‍🎓:
 Looking for an internship ! 
-  
+---
 ### ⌨️ Languages and Tools learned: 
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
