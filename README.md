@@ -83,4 +83,6 @@ I code on these projects when I have free time, they progress slowly but surely.
 
 <br />
 
-#### Please Follow me 😉
+#### Please Follow me 😉.
+###### *Antoine Aubert*
+---
